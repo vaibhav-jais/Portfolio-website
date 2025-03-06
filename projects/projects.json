@@ -1,0 +1,35 @@
+[
+  {
+    "name": "WordPress LMS server on AWS",
+    "desc": "Deploying a fully scabale, highly available, secure and fault-tolerant LMS WordPress server on AWS Cloud",
+    "image": "LMS_Front1",
+    "links": {
+      "view": "https://github.com/vaibhav-jais/AWS_Capstone_Project"
+    }
+  },
+  {
+    "name": "Flask application using CI/CD pipeline on AWS",
+    "desc": "Deployment of a scalable Flask application with CI/CD pipeline on AWS",
+    "image": "flipkartmern",
+    "links": {
+      "view": "https://github.com/jigar-sable/Portfolio-Website"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website using HTML, CSS, Javascript",
+    "image": "portfolio1",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/Portfolio-Website"
+    }
+  },
+  {
+    "name": "Master-Thesis: Radar Point Cloud semantic segmentation",
+    "desc": "Automotive Radar Point Cloud semantic segmentation using self-attentions based PointTransformer Architecture",
+    "image": "portfolio1",
+    "links": {
+      "view": "https://github.com/vaibhav-jais/PointTransformer-for-Point-Cloud-Processing"
+    }
+  }
+]
